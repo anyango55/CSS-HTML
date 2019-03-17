@@ -1,0 +1,71 @@
+html{background-color: #b5884d;}
+
+
+body{background-image: url("");
+	background-color:bisque;
+	padding:20 px;
+	margin-right: 5%;
+	margin-left: 10%;
+	max-width: 90%;
+	}
+header{background-color: white;
+	border-bottom-style: solid;
+	border-bottom-color: black;
+	border-bottom-width: 1px;
+	padding-right: 30px;
+	padding-left: 30px; 
+}
+header img{width: 50px;
+			padding: 20px;}
+header ul{text-align:right; }
+header ul li{display: inline;
+			list-style: none;
+			padding: 20px;}	
+header ul li a{text-decoration: none;
+			color: red;
+			padding-right:0px; 
+			padding-left:10px;
+			font-size:16px;}
+header .head-cont{width: 100px;}
+
+	a:hover{background-color: pink;
+			}
+		img{max-width: medium;
+			padding: 20px;}
+
+	
+	table{width: 60%;
+	margin-left: auto;
+	margin-right: auto;
+	border: 3px solid blue;
+	border-collapse: collapse;
+	text-align: center;}
+			
+
+	td{border: 1px solid blue;
+		background-color: #b5884d;
+		padding: 5px;}
+	th{border: 3px solid blue;
+		background-color: white;
+		padding: 5px;}
+	img{margin-left: 50px;
+		max-width: medium;
+		border-color: pink;}
+	.my_welcome{color: blue;
+		padding: 40px;
+		width: 300px;
+		margin:0 auto;}
+		.box{background-color: #b5884d;
+			 margin-left:  60%;
+			 margin-right: 30%;
+			 max-height: 60%;
+			 position: absolute;
+			 padding: 7px;
+			 border-radius: 20px;}
+
+white;}.my-stuff{width: 600px;
+			margin: 0 auto;
+			background-color: 
+
+
+	
